@@ -3,8 +3,6 @@
 This Maven project is meant to be used as a solid starter project for any [Broadleaf Commerce](http://www.broadleafcommerce.org) application.
 It has many sensible defaults set up along with examples of how a fully functioning eCommerce site based on Broadleaf might work. 
 
-This project differs from [Demo Site](https://github.com/BroadleafCommerce/DemoSite) in that it uses React and NodeJS for the `site` application and interacts with Broadleaf through the `api` application. This is a good starting point for anyone looking to use Broadleaf for a single-page application.
-
 ## Running the applications
 This starter contains several runnable applications: `site`, `admin`, and `api`.
 You can run `admin` and `api` as any other Spring Boot application (http://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html)
